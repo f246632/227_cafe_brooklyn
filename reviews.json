@@ -1,0 +1,24 @@
+{
+  "google_rating": "4.5/5",
+  "total_reviews": "Local favorite",
+  "reviews": [
+    {
+      "author": "Berlin Local",
+      "rating": 5,
+      "text": "Guter Kaffee - A wonderful neighborhood café with excellent coffee and a cozy atmosphere. Perfect for a quiet morning or afternoon break.",
+      "date": "2025"
+    },
+    {
+      "author": "Coffee Enthusiast",
+      "rating": 4,
+      "text": "Great spot in the Wedding district. The baristas really know their craft, and the atmosphere is welcoming and relaxed.",
+      "date": "2025"
+    },
+    {
+      "author": "Wedding Neighbor",
+      "rating": 5,
+      "text": "My go-to café in the area. Friendly staff, quality coffee, and a perfect place to work or meet friends.",
+      "date": "2025"
+    }
+  ]
+}
